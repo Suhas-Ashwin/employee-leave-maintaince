@@ -48,7 +48,6 @@ export default function Holiday(){
     >
         <AgGridReact rowData={data} columnDefs={columns}/>
       </div>
-      <Fotter/>
     </div>
     <Fotter/>
     </div>
